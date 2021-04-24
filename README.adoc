@@ -1,4 +1,4 @@
-= Work Status indicator
+= Work Indicator
 
 My simple door indicator for the home office.
 
