@@ -8,3 +8,17 @@ My simple door indicator for the home office.
 * OLED Shield 0.66" 64x48
 * (optional) Case: https://www.thingiverse.com/thing:3450373
 
+== Features
+
+Right now this is pretty simple and maybe will stay the way it is for a while ;)
+
+The built-in webserver will expose:
+
+* _http://d1-ip/call_ for displaying the phone icon
+* _http://d1-ip/code_ for displaying the keyboard icon
+* _http://d1-ip/free_ for displaying the open door icon
+
+== Possible upcoming features
+
+* Use a larger display
+* Add light indicator
