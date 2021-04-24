@@ -1,0 +1,10 @@
+= Work Status indicator
+
+My simple door indicator for the home office.
+
+== Hardware
+
+* WeMos D1 mini plus
+* OLED Shield 0.66" 64x48
+* (optional) Case: https://www.thingiverse.com/thing:3450373
+
